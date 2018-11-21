@@ -1,5 +1,5 @@
 # FDAproject
-End-of-module Project Submission for Fundamentals of Data analytics
+End-of-module Project Submission for Fundamentals of Data Analysis
 
 ## notebook name is FDAfinalproject.ipynb
 
